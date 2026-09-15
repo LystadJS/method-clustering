@@ -44,7 +44,7 @@ _Link to complementary methodological hubs._
 
 <!-- JSL:AUTO-PROJECTS:START -->
 
-_Project links are generated from registered project manifests._
+_No registered projects currently use this method._
 
 <!-- JSL:AUTO-PROJECTS:END -->
 
