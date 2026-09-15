@@ -1,0 +1,26 @@
+schema_version: '1.0'
+method:
+  id: clustering
+  label: Cluster Analysis
+  repository: LystadJS/method-clustering
+  status: planned
+  summary: Methods for identifying groups, latent structure, and heterogeneous subpopulations.
+  family:
+  - unsupervised-learning
+  aliases:
+  - Cluster Analysis
+  - clustering
+  techniques:
+  - k-means
+  - hierarchical-clustering
+  - dbscan
+  - hdbscan
+  - fuzzy-clustering
+  - mixture-models
+  - expectation-maximization
+  - cluster-validation
+  related_methods:
+  - unsupervised-learning
+  languages:
+  - R
+  - Python
